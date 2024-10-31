@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Saint du jour\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-11 10:45+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Nicolas Fischmeister <sitesweb@sursum-corda.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2;plural=n>2\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: wp-content\\plugins\\saint-du-jour\\1.1\\saint-du-jour\n"
+"X-Poedit-SearchPath-0: wp-content\\plugins\\saint-du-jour\n"
+
+#: saintdujour.php:67
+msgid "TITRE DU WIDGET"
+msgstr "WIDGET'S TITLE"
+
+#: saintdujour.php:72
+#: saintdujour.php:109
+msgid "FORME ORDINAIRE"
+msgstr "ORDINARY FORM"
+
+#: saintdujour.php:74
+#: saintdujour.php:111
+msgid "Afficher forme ordinaire"
+msgstr "Display ordinary form"
+
+#: saintdujour.php:76
+#: saintdujour.php:94
+#: saintdujour.php:99
+#: saintdujour.php:105
+#: saintdujour.php:113
+#: saintdujour.php:131
+#: saintdujour.php:136
+#: saintdujour.php:142
+msgid "Non"
+msgstr "No"
+
+#: saintdujour.php:78
+#: saintdujour.php:115
+msgid "Langue"
+msgstr "Language"
+
+#: saintdujour.php:92
+#: saintdujour.php:129
+msgid "Afficher le label"
+msgstr "Display label"
+
+#: saintdujour.php:96
+#: saintdujour.php:133
+msgid "Label"
+msgstr "Label"
+
+#: saintdujour.php:97
+#: saintdujour.php:134
+msgid "Saut de ligne apr&egrave;s label"
+msgstr "Line feed after label"
+
+#: saintdujour.php:103
+#: saintdujour.php:140
+msgid "Afficher le lien"
+msgstr "Display hyperlink"
+
+#: saintdujour.php:148
+msgid "Saut de ligne si d&eacute;coch&eacute; = <strong>&amp;nbsp;</strong><br />Saut de ligne si coch&eacute; = <strong>&lt;br /&gt;</strong><br/>Classe du label : <strong>.saintdujour_forme</strong><br />Classe du saint : <strong>.saintdujour_saint</strong>"
+msgstr "Line feed if not checked = <strong>&amp;nbsp;</strong><br />Line feed if checked = <strong>&lt;br /&gt;</strong><br/>Class of label : <strong>.saintdujour_forme</strong><br />Class of saint : <strong>.saintdujour_saint</strong>"
+
